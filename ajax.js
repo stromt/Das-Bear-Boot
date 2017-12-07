@@ -12,4 +12,4 @@ function visKlasse(klassekode)
 
   foresporsel.open("GET","ajaxvis.php?klassekode="+klassekode);  
   foresporsel.send();  
-}
+} y
